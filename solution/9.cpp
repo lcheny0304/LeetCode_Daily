@@ -1,3 +1,8 @@
+/*
+执行用时：20 ms, 在所有 C++ 提交中击败了47.66%的用户
+内存消耗：6 MB, 在所有 C++ 提交中击败了100.00%的用户
+*/
+
 class Solution {
 public:
     bool isPalindrome(int x) {
@@ -19,5 +24,5 @@ public:
             return false;
         }
         return true;
-    };
+    }
 };

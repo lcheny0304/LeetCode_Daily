@@ -1,3 +1,8 @@
+/*
+执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
+内存消耗：5.9 MB, 在所有 C++ 提交中击败了100.00%的用户
+*/
+
 class Solution {
 public:
     int reverse(int x) {
@@ -18,5 +23,5 @@ public:
         if(flag==true)
             ans=-ans;
         return ans;
-    };
+    }
 };

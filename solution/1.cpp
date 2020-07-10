@@ -1,3 +1,8 @@
+/*
+执行用时：12 ms, 在所有 C++ 提交中击败了87.71%的用户
+内存消耗：7.8 MB, 在所有 C++ 提交中击败了100.00%的用户
+*/
+
 class Solution {
 public:
     struct input{
@@ -22,12 +27,12 @@ public:
             else
                 j--;
         }
-    return {};
-    };
+        return {};
+    }
     static bool cmp(input a,input b){
         if(a.data!=b.data)
             return a.data<b.data;
         else
             return a.location<b.location;
-    };
+    }
 };

@@ -16,5 +16,5 @@ public:
             ans=ans+temp;
         }
         return ans;
-    };
+    }
 };
