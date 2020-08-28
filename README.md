@@ -1,8 +1,12 @@
+
+
 # LeetCode_Daily
 
 仅做备份。
 
 所用时间尽量短，努力保证超过50%。
+
+
 
 | 题号 | 名称                                                         | 难度   | 题解                                                         | 备注 |
 | ---- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ---- |
@@ -46,6 +50,8 @@
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/141.cpp) | **   |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack)         | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/155.cpp) | *    |
 | 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/160.cpp) | **   |
+| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/167.cpp) |      |
+| 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/168.cpp) |      |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/169.cpp) | **   |
 | 171  | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/171.cpp) |      |
 | 172  | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/172.cpp) | **   |
@@ -54,6 +60,7 @@
 | 191  | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/191.cpp) |      |
 | 198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber)    | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/198.cpp) | **   |
 | 202  | [快乐数](https://leetcode-cn.com/problems/happy-number)      | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/202.cpp) | **   |
+| 203  | [ 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/203.cpp) |      |
 | 204  | [计数质数](https://leetcode-cn.com/problems/count-primes)    | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/204.cpp) |      |
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/206.cpp) | *    |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | easy   | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/217.cpp) | **   |
@@ -66,8 +73,36 @@
 |      |                                                              |        |                                                              |      |
 |      |                                                              |        |                                                              |      |
 
-| 题号        | 名称                                                         | 难度 | 题解                                                         | 备注 |
-| ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- |
-| 剑指offer66 | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/剑指Offer66.cpp) | **   |
+|      |                                                              |      |                                                              |      |
+| ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- |
+| 237  | [ 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/237.cpp) | *    |
+| 242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/242.cpp) |      |
+| 268  | [缺失数字](https://leetcode-cn.com/problems/missing-number)  | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/268.cpp) | **   |
+| 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes)       | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/283.cpp) |      |
+| 326  | [3的幂](https://leetcode-cn.com/problems/power-of-three)     | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/326.cpp) | **   |
+| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/344.cpp) |      |
+| 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/350.cpp) |      |
+| 371  | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/371.cpp) | **   |
+| 387  | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/387.cpp) | *    |
+| 412  | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)      | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/412.cpp) |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+|      |                                                              |      |                                                              |      |
+
+
+
+
+| 题号              | 名称                                                         | 难度 | 题解                                                         | 备注 |
+| ----------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- |
+| 剑指 Offer 55 - I | [ 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof) | easy |                                                              |      |
+| 剑指 Offer 65     | [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof) | easy |                                                              |      |
+| 剑指offer66       | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof) | easy | [C++](https://github.com/lcheny0304/LeetCode_Daily/blob/master/solution/剑指Offer66.cpp) | **   |
 
 
